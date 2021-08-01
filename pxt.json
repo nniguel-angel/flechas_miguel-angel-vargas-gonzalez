@@ -1,5 +1,6 @@
 {
     "name": "Flechas_Miguel Angel Vargas Gonzalez",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
